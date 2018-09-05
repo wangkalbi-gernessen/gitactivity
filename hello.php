@@ -1,4 +1,4 @@
 <?php
 echo "Herzlich willkommen zu Cebu.";
-echo "Ich will Mostar besuchen.";
+echo "I want to visit Mostar and Split.";
 ?>
